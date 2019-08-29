@@ -1,16 +1,16 @@
-GitHub - GitLab
+GitHub - GitLab blablabla modification 
 
-ouvrir powershell ou GitBash ou Visual Code Studio qui propose des lignes de commandes directement integrés dans le logiciel de code
+ouvrir powershell ou GitBash ou Visual Code Studio qui propose des lignes de commandes directement integrÃ©s dans le logiciel de code
 
 
 pour crer la commande : Git init
-c'est un dossier caché donc il faut dans affichage, selectionné "Extensions de noms de fichiers" 
-et "Elements masqués"
-Mieux vaut toujours copié le dossier parent, celi a la racine car certain dossier caché pourrai 
-ne pas etre copié
+c'est un dossier cachÃ© donc il faut dans affichage, selectionnÃ© "Extensions de noms de fichiers" 
+et "Elements masquÃ©s"
+Mieux vaut toujours copiÃ© le dossier parent, celi a la racine car certain dossier cachÃ© pourrai 
+ne pas etre copiÃ©
 La nature du fichier n'est pas importante
 
-commande git status : donne le statut du dossier git pui git add qui permet d'ajouter le fichier créer au git
+commande git status : donne le statut du dossier git pui git add qui permet d'ajouter le fichier crÃ©er au git
 
 des que l'on fait des modifications importantes : git add
 
@@ -18,10 +18,11 @@ Pour faire un comit (mettre en ligne la version de son travail, permet de faire 
 /!\ Il faut absolument documenter son commit A CHAQUE COMMIT sinon ca bug /!\ donc faire git commit -m"blablabla" 
 S'il faut ajouter plusieurs fichiers sur un staging 
 
+hello world
 
-GitHub est une plasteforme qui travaille avec Git et apporte des fonctionnalité que ce dernier n'a pas
-Pour créer un nouveau repertoire : 
+GitHub est une plasteforme qui travaille avec Git et apporte des fonctionnalitÃ© que ce dernier n'a pas
+Pour crÃ©er un nouveau repertoire : 
 - "New repository" avec le plus en haut a droite.
-- Donner un nom au dossier et créer
+- Donner un nom au dossier et crÃ©er
 - choisir la fonction "push an existing repository..." c'est pour faire le remote des bakcup --> git remote add origin https://github.com//nomProjet
 git push -u origin master
